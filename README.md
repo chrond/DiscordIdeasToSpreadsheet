@@ -1,11 +1,12 @@
 # DiscordIdeasToSpreadsheet
-A Discord bot that reads messages in a channel and uploads them to a Google Sheet.
+A Discord bot that reads messages in a channel and writes them to a CSV file.
 
 This was made for Instafluff's **The Comfy Corner** Discord server where the community adds ideas to an "Idears" channel.
 
 It uses **ComfyDiscord** (https://github.com/instafluff/comfydiscord) as a base for the Discord bot.
 
-Requires Node.js, a Discord bot application token, and a Google API application token.
+Requires Node.js and a Discord bot application token.
+Also make sure the Discord bot is added to the server.
 
 ## Features ##
 
